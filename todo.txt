@@ -1,0 +1,6 @@
+#TODO:
+-Check if the training and test data are really similar (e.g. different columns, different factor-levels)
+-
+
+#DONE
+1.Test rush hour column calculation for mistakes
